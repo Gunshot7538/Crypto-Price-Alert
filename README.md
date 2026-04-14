@@ -1,6 +1,8 @@
+![Crypto Bot Banner](assets/banner.png)
+
 # 🚀 Crypto Trading Alert Bot
 
-A Python-based automated crypto alert bot that detects trading setups and sends real-time notifications to Telegram.
+A Python-based automated crypto trading alert bot that detects high-probability setups and sends real-time notifications to Telegram.
 
 ---
 
@@ -10,7 +12,7 @@ A Python-based automated crypto alert bot that detects trading setups and sends 
 - 📊 EMA 50 Support & Resistance alerts
 - ⚡ Real-time Telegram notifications
 - 🚫 Duplicate alert prevention
-- 🔁 Runs continuously (auto monitoring)
+- 🔁 Continuous market monitoring (24/7 ready)
 
 ---
 
@@ -26,3 +28,5 @@ A Python-based automated crypto alert bot that detects trading setups and sends 
 ## 📦 Setup Guide
 
 1. Clone the repository:
+   ```bash
+   git clone https://github.com/Gunshot7538/Crypto-Price-Alert
